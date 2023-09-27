@@ -64,3 +64,11 @@ th {
     font-variant: small-caps;
     color: var(--color4);
 }
+
+.noborder {
+    border: none;
+    vertical-align: top;
+    padding: 7px;
+    color: var(--color5);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
